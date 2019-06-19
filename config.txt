@@ -1,6 +1,6 @@
-token=NDcyMDgzOTAwNjU5OTI1MDIy.XPQuVg.AQmhK7SG1Q5c-NJibAvB9k47obY
+token=NDcyMTU4NzM2NzU3MTYyMDA0.XQon-g.xFzeNAmZAr1-8cPHUUFaceUyxzU
 owner=357259240349630466 
-prefix=1
+prefix=2
 game=#TokyoSoon
 stayinchannel=true
 songinstatus=false
